@@ -1,5 +1,10 @@
 
+use rand::Rng;
+
+use serde_json::json;
+
 use structopt::StructOpt;
+
 extern crate rspotify;
 use rspotify::blocking::client::Spotify;
 use rspotify::blocking::oauth2::{SpotifyClientCredentials, SpotifyOAuth};
@@ -40,22 +45,34 @@ struct Cli {
             let spotify = Spotify::default()
                 .client_credentials_manager(client_credential)
                 .build();
+                let mut rng = rand::thread_rng();
+                let random: u32 = rng.gen_range(0..100) ;
+                
 
                 let track_query = format!("genre:{}", s);
                 let result = spotify
                     .search(
                         &track_query[..],
                         SearchType::Track,
-                        10,
-                        0,
+                        1,
+                        random,
                         Some(Country::UnitedStates),
                         None,
                     )
                 ;
+                
                 match result {
-                    Ok(album) => return format!("searched track:{:?}", album),
+                    Ok(tracks) => {
+
+                        let json = json!(tracks);
+                        let tracklink = format!("{}",json["tracks"]["items"][0]["external_urls"]["spotify"]);
+                        let artist = format!("{}",json["tracks"]["items"][0]["artists"][0]["name"]);
+
+                        return format!("a {} track: {}, primary artist: {}",s,tracklink,artist);
+                     },
                     Err(err) => return format!("search error!{:?}", err),
                 }
+                
     
 
         }

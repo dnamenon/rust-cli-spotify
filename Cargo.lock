@@ -1296,7 +1296,9 @@ name = "rust-cli-spotify"
 version = "0.1.0"
 dependencies = [
  "futures",
+ "rand 0.8.4",
  "rspotify",
+ "serde_json",
  "structopt",
 ]
 
