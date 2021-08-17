@@ -3,6 +3,13 @@ name = "rust-cli-spotify"
 version = "0.1.0"
 authors = ["Dev Menon"]
 edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "get a random track from a given genre on spotify"
+readme = "README.md"
+homepage = "https://github.com/dnanemon/rust-cli-spotify"
+repository = "https://github.com/dnanemon/rust-cli-spotify"
+keywords = ["cli", "spotify", "demo"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 structopt = "0.3.22"

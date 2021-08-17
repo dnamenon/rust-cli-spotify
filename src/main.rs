@@ -24,7 +24,7 @@ struct Cli {
 
 fn main() {
     let args = Cli::from_args();
-    let track = search_spotify(args.genre);
+    let track = search_spotify(str::replace(&args.genre[..]," ","-"));
 
 
     println!("{}", track);
@@ -44,7 +44,7 @@ fn search_spotify(s: String) -> String {
                 .client_credentials_manager(client_credential)
                 .build();
             let mut rng = rand::thread_rng();
-            let random: u32 = rng.gen_range(0..100);
+            let random: u32 = rng.gen_range(0..500);
 
             let track_query = format!("genre:{}", s);
             let result = spotify.search(
