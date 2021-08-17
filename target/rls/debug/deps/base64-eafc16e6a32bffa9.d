@@ -1,0 +1,12 @@
+/Users/devmenon/Desktop/rust projects/rust-cli-spotify/target/rls/debug/deps/base64-eafc16e6a32bffa9.rmeta: /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs
+
+/Users/devmenon/Desktop/rust projects/rust-cli-spotify/target/rls/debug/deps/base64-eafc16e6a32bffa9.d: /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs
+
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs:

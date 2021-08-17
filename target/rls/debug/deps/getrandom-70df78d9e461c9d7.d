@@ -1,0 +1,11 @@
+/Users/devmenon/Desktop/rust projects/rust-cli-spotify/target/rls/debug/deps/getrandom-70df78d9e461c9d7.rmeta: /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/lib.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/error.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/util.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/error_impls.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/util_libc.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/use_file.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/macos.rs
+
+/Users/devmenon/Desktop/rust projects/rust-cli-spotify/target/rls/debug/deps/getrandom-70df78d9e461c9d7.d: /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/lib.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/error.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/util.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/error_impls.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/util_libc.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/use_file.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/macos.rs
+
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/lib.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/error.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/util.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/error_impls.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/util_libc.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/use_file.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/macos.rs:

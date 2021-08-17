@@ -1,0 +1,11 @@
+/Users/devmenon/Desktop/rust projects/rust-cli-spotify/target/rls/debug/deps/serde_urlencoded-98080f09fc838cca.rmeta: /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/lib.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/de.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/mod.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/key.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/pair.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/part.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/value.rs
+
+/Users/devmenon/Desktop/rust projects/rust-cli-spotify/target/rls/debug/deps/serde_urlencoded-98080f09fc838cca.d: /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/lib.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/de.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/mod.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/key.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/pair.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/part.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/value.rs
+
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/lib.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/de.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/mod.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/key.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/pair.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/part.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/value.rs:

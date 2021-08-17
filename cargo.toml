@@ -6,3 +6,5 @@ edition = "2018"
 
 [dependencies]
 structopt = "0.3.22"
+rspotify = { version = "0.10.0", features=["blocking"]}
+futures = "0.3"

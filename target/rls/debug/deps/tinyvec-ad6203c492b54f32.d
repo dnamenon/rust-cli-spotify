@@ -1,0 +1,11 @@
+/Users/devmenon/Desktop/rust projects/rust-cli-spotify/target/rls/debug/deps/tinyvec-ad6203c492b54f32.rmeta: /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/lib.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/array.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/array/generated_impl.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/arrayvec.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/arrayvec_drain.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/slicevec.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/tinyvec.rs
+
+/Users/devmenon/Desktop/rust projects/rust-cli-spotify/target/rls/debug/deps/tinyvec-ad6203c492b54f32.d: /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/lib.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/array.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/array/generated_impl.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/arrayvec.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/arrayvec_drain.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/slicevec.rs /Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/tinyvec.rs
+
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/lib.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/array.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/array/generated_impl.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/arrayvec.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/arrayvec_drain.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/slicevec.rs:
+/Users/devmenon/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.3.1/src/tinyvec.rs:
